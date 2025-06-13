@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Calender_Assessment/static/css/main.2ee9b7d7.css",
+    "main.css": "/Calender_Assessment/static/css/main.5ae9581d.css",
     "main.js": "/Calender_Assessment/static/js/main.aa140206.js",
     "index.html": "/Calender_Assessment/index.html",
-    "main.2ee9b7d7.css.map": "/Calender_Assessment/static/css/main.2ee9b7d7.css.map",
+    "main.5ae9581d.css.map": "/Calender_Assessment/static/css/main.5ae9581d.css.map",
     "main.aa140206.js.map": "/Calender_Assessment/static/js/main.aa140206.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ee9b7d7.css",
+    "static/css/main.5ae9581d.css",
     "static/js/main.aa140206.js"
   ]
 }
